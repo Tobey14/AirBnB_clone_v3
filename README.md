@@ -150,14 +150,11 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## Bugs
-No known bugs at this time. 
-
 ## Authors
-Adedoyin Victoria
+Tobechukwu Onuigbo
 
 ## Contributors
-Adeleke Adeola
+Ukamaka Anthony
 
 ## License
 Public Domain. No copy write protection. 
